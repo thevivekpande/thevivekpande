@@ -2,7 +2,7 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vivek-pandey01/" target="_blank"> Vivek Pandey </a></h1>
 
-I am <b>Vivek Pandey</b> a <b>Computer Science Graduate</b> from IIMT College of Engineering, Greater Noida, Currently working as Junior Software Engineer at <b>Epam Systems.</b>
+I am <b>Vivek Pandey</b>, a <b>Computer Science Graduate</b> from IIMT College of Engineering, Greater Noida, Currently working as Junior Software Engineer at <b>Epam Systems.</b>
 
 <h3 align="center"> Software Engineer </h3>
 
