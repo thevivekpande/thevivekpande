@@ -9,7 +9,7 @@ I am <b>Vivek Pandey</b>, a <b>Computer Science Graduate</b> from IIMT College o
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=thevivekpande&label=Profile%20views&color=6805D3&style=flat" alt="Vivek Pandey" /> </p></h3>
    <div align="center">
 
-<h1>Technical Skills 🛠</h1>
+<h2>Technical Skills</h2>
    
 I have learnt web-development and having knowledge of HTML, CSS, Javascript, NodeJs, ExpessJs, AngularJs & ReactJs.
 Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
