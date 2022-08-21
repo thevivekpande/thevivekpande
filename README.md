@@ -44,7 +44,6 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
 
 <div>
 <span> <h2>Coding Profiles </h2>
-<a  href="https://leetcode.com/Vivek_Pandey/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a  href="https://auth.geeksforgeeks.org/user/cyrus18/practice" target="_blank"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a  href="https://www.codingninjas.com/codestudio/profile/bee8f04b-677c-49d5-9f5f-066caa333216" target="_blank"><img alt="Code Studio" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" /></a></span>  
 </div>
