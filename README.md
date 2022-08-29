@@ -52,7 +52,7 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
 
 <div>
   <span> <h2>Let's get connected</h2>
-<a  href="https://www.linkedin.com/in/cyrus18/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/thevivekpande/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a  href="https://linktr.ee/cyrus18" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a></span> 
 </span>  
 </div>
