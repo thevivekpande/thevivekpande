@@ -77,8 +77,6 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevivekpande&theme=dark" alt="Vivek Pandey" /></p>
   </div>
-
- [![thevivekpande's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thevivekpande&theme=xcode)](https://git.io/thevivekpande)
    
    
 
