@@ -65,7 +65,7 @@ Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
   <tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=thevivekpande&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vivek Pandey" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekpande&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vivek Pandey" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevivekpande&hide=Jupyter%20Notebook,Asp.net,shaderlab&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vivek Pandey" /></td>
    </tr>
   </table>
    <table>
