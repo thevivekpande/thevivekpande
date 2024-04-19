@@ -11,7 +11,7 @@ I am <b>Vivek Pandey</b>, a <b>Computer Science Graduate</b> from IIMT College o
 
 <h2>Technical Skills</h2>
    
-I have learnt web-development and having knowledge of HTML, CSS, Javascript, NodeJs, ExpessJs, AngularJs & ReactJs.
+I am a Software Engineer having knowledge and Experience of HTML, CSS, Javascript, Typescript, ReactJS, Jest, NodeJs, ExpessJs, AngularJs & DevOps.
 Known Languages: Java, C++, C, Python, Html, JavaScript, and CSS.
 
 <p align="center"> 
